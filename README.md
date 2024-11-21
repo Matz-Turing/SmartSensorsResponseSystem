@@ -9,11 +9,15 @@ Este projeto implementa dois circuitos distintos integrados em um único Arduino
 ### Sistema de Detecção de Proximidade com Sensor Ultrassônico e Servo Motor:
 - Quando o sensor ultrassônico detecta um objeto a uma distância muito próxima (definida como menos de 10 cm no código), o motor servo é acionado, movendo-se para uma posição específica (90 graus).
 
+![Captura de Tela Principal](img/2.png)
+
 ### Sistema de Monitoramento de Temperatura com Ações Multimodais:
 - Ao detectar uma temperatura elevada (definida como acima de 30 °C no código), são realizadas as seguintes ações:
   - O motor DC é acionado.
   - Um buzzer (piezo) emite um sinal sonoro.
   - O LED RGB acende em uma cor específica (verde) para indicar a condição de alerta.
+
+![Captura de Tela Principal](img/3.png)
 
 ## Objetivos
 
@@ -23,6 +27,8 @@ O projeto foi desenvolvido com os seguintes objetivos:
 - Trabalhar com medições de distância e temperatura para realizar ações específicas.
 - Utilizar diferentes tipos de atuadores (servo motor, motor DC, buzzer e LED RGB) para fornecer feedback físico e visual.
 - Consolidar conhecimentos sobre eletrônica e programação no ambiente Arduino.
+
+![Captura de Tela Principal](img/1.png)
 
 ## Componentes Utilizados
 

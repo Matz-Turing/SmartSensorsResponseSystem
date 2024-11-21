@@ -50,7 +50,7 @@ O projeto foi desenvolvido com os seguintes objetivos:
   - Emite sinais sonoros para alertas.
 
 - **LED RGB**:
-  - Exibe diferentes cores com base na situação (vermelho para altas temperaturas).
+  - Exibe diferentes cores com base na situação (verde para altas temperaturas).
 
 - **Arduino Uno R3**:
   - Microcontrolador que gerencia os sensores e atuadores.

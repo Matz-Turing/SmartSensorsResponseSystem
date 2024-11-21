@@ -4,7 +4,7 @@
 
 ## Descrição Geral
 
-Este projeto implementa dois circuitos distintos integrados em um único Arduino, utilizando sensores e atuadores para interagir com o ambiente. Ele é composto por dois sistemas principais:
+Este projeto implementa dois circuitos distintos, utilizando sensores e atuadores para interagir com o ambiente. Ele é composto por dois sistemas principais:
 
 ### Sistema de Detecção de Proximidade com Sensor Ultrassônico e Servo Motor:
 - Quando o sensor ultrassônico detecta um objeto a uma distância muito próxima (definida como menos de 10 cm no código), o motor servo é acionado, movendo-se para uma posição específica (90 graus).
